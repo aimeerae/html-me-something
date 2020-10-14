@@ -363,6 +363,9 @@ body {
   padding-bottom: 50px;
   padding-left: 80px;
   background-color: cyan;
+  border-style: double;
+  border-color: darkturquoise;
+  border-width: thick;
 }
 h1, 
 h2, 
@@ -385,10 +388,19 @@ figure {
 figcaption {
   font-size: large;
 }
+#footer {
+  font-size: smaller;
+}
 
+.farewell {
+  font-weight: bold;
+}
 
-
-
+header {
+  border-style: double;
+  border-color: darkturquoise;
+  border-width: thick;
+}
 
 
 
